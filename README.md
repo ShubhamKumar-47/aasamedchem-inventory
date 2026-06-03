@@ -34,3 +34,52 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# AasaMedChem Inventory Management System
+
+## Tech Stack
+
+* Next.js 16
+* TypeScript
+* Prisma ORM
+* PostgreSQL (Neon)
+* Tailwind CSS
+
+## Features
+
+### Authentication
+
+* Admin Login
+* Seller Login
+* Role Based Access
+
+### Product Management
+
+* Add Products
+* View Products
+* Inventory Tracking
+
+### Seller Features
+
+* Product Listing
+* Quotation Generator
+* Unit Conversion
+* Order Placement
+
+### Admin Features
+
+* Dashboard Analytics
+* Order Approval/Rejection
+* Revenue Tracking
+* Inventory Management
+
+## Database
+
+* User
+* Product
+* Order
+* OrderItem
+
+## Author
+
+Shubham Kumar
